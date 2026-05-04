@@ -8,11 +8,15 @@ The core mission is to build a production-grade IATI platform with the architect
 
 IATI Plus is an open-source collaborative initiative bringing together student volunteers, researchers, AI experts, technology companies, and humanitarian organizations to tackle the complex challenges of making aid activity information natively accessible to AI agents. The project serves as an experimental testbed for next-generation data architectures, partnering with initiatives like MIT's Project NANDA—which is architecting foundational aspects of the agentic web—to explore how structured humanitarian data can be optimized for autonomous agent consumption, reasoning, and real-time decision support. By working at the intersection of knowledge graphs, temporal versioning, and agentic AI systems, IATI Plus aims to develop and validate capabilities that will define how AI systems discover, query, and act upon global development data at scale.
 
+Learn more: [ABOUT.md]()
+
 ## Get Involved
 
 IATI Plus is organized so volunteers can contribute effectively with the support of AI coding assistants. The repository separates project knowledge from implementation: the docs/ area contains the architecture, data model, workflow notes, standards, and prompt guidance that help humans and AI understand the project, while the src/ and related code folders contain the software used to ingest IATI XML, generate change histories, manage cloud storage and compute workflows, test the pipeline, and run the graph database environment.
 
 Volunteers can contribute by refining prompts, improving project documentation, and working with AI coding assistants to generate, test, and iterate on the codebase. Contributions may include helping orchestrate cloud data storage, provisioning compute resources, building ingestion and diffing pipelines, preparing Neo4j load processes, validating outputs, and improving reliability as the system evolves toward a scalable platform for AI-ready humanitarian data.
+
+Learn more: [CONTRIBUTING.md](https://github.com/IATIPlus/iati-knowledge-graph/blob/main/docs/CONTRIBUTING.md)
 
 ### Contact
 
