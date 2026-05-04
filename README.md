@@ -1,3 +1,5 @@
+![IATI Plus Logo](https://github.com/IATIPlus/Project/blob/main/Media/IATIPlus-Header.png)
+
 # IATI Plus Initiative
 
 IATI Plus is a versioned knowledge graph infrastructure built to modernize access to International Aid Transparency Initiative (IATI) data. The project maintains a comprehensive archive of daily IATI data snapshots for longitudinal research while operating a live Neo4j-based knowledge graph that tracks changes in humanitarian aid activities over time. This dual approach preserves the complete historical record of IATI's 32GB+ corpus while enabling researchers, developers, and AI systems to query both current state and change history through graph-native interfaces.
