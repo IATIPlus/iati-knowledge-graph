@@ -12,7 +12,7 @@ The core mission is to build a production-grade IATI platform with the architect
 
 IATI Plus is an open-source collaborative initiative bringing together student volunteers, researchers, AI experts, technology companies, and humanitarian organizations to tackle the complex challenges of making aid activity information natively accessible to AI agents. The project serves as an experimental testbed for next-generation data architectures, partnering with initiatives like MIT's Project NANDA—which is architecting foundational aspects of the agentic web—to explore how structured humanitarian data can be optimized for autonomous agent consumption, reasoning, and real-time decision support. By working at the intersection of knowledge graphs, temporal versioning, and agentic AI systems, IATI Plus aims to develop and validate capabilities that will define how AI systems discover, query, and act upon global development data at scale.
 
-Learn more: [ABOUT.md](https://github.com/IATIPlus/iati-knowledge-graph/blob/main/docs/ABOUT.md), [BACKGROUND](https://github.com/IATIPlus/iati-knowledge-graph/blob/main/docs/BACKGROUND.md)
+Learn more: [ABOUT](https://github.com/IATIPlus/iati-knowledge-graph/blob/main/docs/ABOUT.md), [BACKGROUND](https://github.com/IATIPlus/iati-knowledge-graph/blob/main/docs/BACKGROUND.md)
 
 
 
