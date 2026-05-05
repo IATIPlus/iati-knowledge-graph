@@ -14,8 +14,6 @@ IATI Plus is an open-source collaborative initiative bringing together student v
 
 Learn more: [ABOUT.md](https://github.com/IATIPlus/iati-knowledge-graph/blob/main/docs/ABOUT.md)
 
-Suggested Markdown Files: [README-inventory](https://github.com/IATIPlus/iati-knowledge-graph/tree/main/readme-inventory)
-
 ## Get Involved
 
 IATI Plus is organized so volunteers can contribute effectively with the support of AI coding assistants. The repository separates project knowledge from implementation: the docs/ area contains the architecture, data model, workflow notes, standards, and prompt guidance that help humans and AI understand the project, while the src/ and related code folders contain the software used to ingest IATI XML, generate change histories, manage cloud storage and compute workflows, test the pipeline, and run the graph database environment.
@@ -23,6 +21,8 @@ IATI Plus is organized so volunteers can contribute effectively with the support
 Volunteers can contribute by refining prompts, improving project documentation, and working with AI coding assistants to generate, test, and iterate on the codebase. Contributions may include helping orchestrate cloud data storage, provisioning compute resources, building ingestion and diffing pipelines, preparing Neo4j load processes, validating outputs, and improving reliability as the system evolves toward a scalable platform for AI-ready humanitarian data.
 
 Learn more: [CONTRIBUTING.md](https://github.com/IATIPlus/iati-knowledge-graph/blob/main/docs/CONTRIBUTING.md)
+
+Suggested Markdown Files: [README-inventory](https://github.com/IATIPlus/iati-knowledge-graph/tree/main/readme-inventory)
 
 ### Contact
 
