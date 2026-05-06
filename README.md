@@ -22,7 +22,7 @@ IATI Plus is organized so volunteers can contribute effectively with the support
 
 Volunteers can contribute by refining prompts, improving project documentation, and working with AI coding assistants to generate, test, and iterate on the codebase. Contributions may include helping orchestrate cloud data storage, provisioning compute resources, building ingestion and diffing pipelines, preparing Neo4j load processes, validating outputs, and improving reliability as the system evolves toward a scalable platform for AI-ready humanitarian data.
 
-Learn more: [CONTRIBUTING.md](https://github.com/IATIPlus/iati-knowledge-graph/blob/main/docs/CONTRIBUTING.md), [README-inventory](https://github.com/IATIPlus/iati-knowledge-graph/tree/main/readme-inventory)
+Learn more: [CONTRIBUTING.md](https://github.com/IATIPlus/iati-knowledge-graph/blob/main/docs/CONTRIBUTING.md), [OVERVIEW](https://github.com/IATIPlus/iati-knowledge-graph/blob/main/docs/OVERVIEW.md) [README-inventory](https://github.com/IATIPlus/iati-knowledge-graph/tree/main/readme-inventory)
 
 ### Contact
 
